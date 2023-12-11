@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="left" height="200" src="https://media.tenor.com/jM0aoM8e-iEAAAAM/web-developer-mycrxn.gif"  />
+<img align="left" height="150" src="https://media.tenor.com/jM0aoM8e-iEAAAAM/web-developer-mycrxn.gif"  />
 
 ###
 
