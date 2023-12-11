@@ -25,7 +25,7 @@
 
 ###
 
-<p align="center">A passionate Front End Developer 👨🏽‍💻from India and has a good knowledge in Python<br><br>- 🔭 I’m pursuing Master of Computer Application<br>- 📚 I'm currently learning Machine Learning for Data Science<br>- ⚡ In my free time I listen Music🎼 and try to learn new things. <br>📝Know about my experiences-<a href="https://ramakrishnanmca.github.io/portfolio/">Portfolio</a></p>
+<p align="center">A passionate Front End Developer 👨🏽‍💻from India and has a good knowledge in Python<br><br>- 🔭 I’m pursuing Master of Computer Application<br>- 📚 I'm currently learning Machine Learning for Data Science<br>- ⚡ In my free time I listen Music🎼 and try to learn new things. <br>-📝Know about my experiences-<a href="https://ramakrishnanmca.github.io/portfolio/"> My portfolio </a><br>- 🗒️Resume <a href="https://ramakrishnanmca.github.io/portfolio/assets/Ramakrishnan%20Resume.pdf"> Click me </a></p>
 
 ###
 
