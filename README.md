@@ -21,11 +21,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
-<p align="center">A passionate Front End Developer 👨🏽‍💻from India and has a good knowledge in Python<br><br>- 🔭 I’m pursuing Master of Computer Application<br>- 📚 I'm currently learning Machine Learning for Data Science<br>- ⚡ In my free time I listen Music🎼 and try to learn new things.</p>
+<p align="center">A passionate Front End Developer 👨🏽‍💻from India and has a good knowledge in Python<br><br>- 🔭 I’m pursuing Master of Computer Application<br>- 📚 I'm currently learning Machine Learning for Data Science<br>- ⚡ In my free time I listen Music🎼 and try to learn new things. 📝Know about my experiences [ramakrishnanmca.github.io/portfolio/assets/Ramakrishnan%20Resume.pdf](ramakrishnanmca.github.io/portfolio/assets/Ramakrishnan%20Resume.pdf)</p>
 
 ###
 
