@@ -33,7 +33,7 @@
 
 ###
 
-<p align="center">Currently working as Trainee Odoo Developer. And also am a passionate Data Analyst | Software Developer 👨🏽‍💻from India and has a good knowledge in Python<br><br>- 🔭 I’m completed Master of Computer Application<br>- 📚 I'm currently learning Machine Learning for Data Science<br>- ⚡ In my free time I solve Rubik's cube and try to learn new things. <br>-📝Know about my experiences-<a href="https://ramakrishnanmca.github.io/portfolio/"> My portfolio </a><br>- 🗒️Resume <a href="https://ramakrishnanmca.github.io/portfolio/assets/Ramakrishnan%20Resume.pdf"> Click me </a></p>
+<p align="center">Currently working as Trainee Odoo Developer. And also am a passionate Data Analyst | Software Developer 👨🏽‍💻from India and has a good knowledge in Python<br><br>- 🔭 I’m completed Master of Computer Application<br>- 📚 I'm currently learning Odoo<br>- ⚡ In my free time I solve Rubik's cube and try to learn new things. <br>-📝Know about my experiences-<a href="https://ramakrishnanmca.github.io/portfolio/"> My portfolio </a><br>- 🗒️Resume <a href="https://ramakrishnanmca.github.io/portfolio/assets/Ramakrishnan%20Resume.pdf"> Click me </a></p>
 
 ###
 
